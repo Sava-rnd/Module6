@@ -1425,3 +1425,5 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.07.16-13.55.03:281][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2520.119629
 [2025.07.16-13.55.04:281][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.16-13.55.04:281][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2520.786377, Update Interval: 302.548920
+[2025.07.16-13.56.15:706][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.07.16-13.56.15:707][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.009
